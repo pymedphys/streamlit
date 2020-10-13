@@ -1271,7 +1271,7 @@ def run_calculation(
         )
 
     st.write("## Results")
-    st.pyplot()
+    st.pyplot(fig)
 
 
 def main():
