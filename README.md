@@ -7,6 +7,17 @@ A repo to house various [Streamlit](https://www.streamlit.io/) demos. A link to 
 
 ## Up to date code
 
-The up to date code for these demos can be found at:
+See the [GUI portion of the PyMedPhys repo](https://github.com/pymedphys/pymedphys/tree/master/pymedphys/_gui/streamlit)
+for the up to date code of these demos. Alternitavely you can install PyMedPhys locally by running:
 
-https://github.com/pymedphys/pymedphys/tree/master/pymedphys/_gui/streamlit
+```bash
+pip install pymedphys
+```
+
+And then within a command prompt run:
+
+```bash
+pymedphys gui
+```
+
+To be able to run up to date versions of all these demos locally.
