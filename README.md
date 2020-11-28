@@ -1,4 +1,4 @@
-# PyMedPhys
+# PyMedPhys [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/pymedphys/streamlit/main/mudensity.py)
 
 A repo to house various [Streamlit](https://www.streamlit.io/) demos. A link to each of these demos is below:
 
